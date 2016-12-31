@@ -1,0 +1,14 @@
+
+var Count, initial_stake, stop_loss, take_profit;
+
+
+initial_stake = 0.35;
+take_profit = 100;
+stop_loss = 50;
+
+[16, 25, 10];
+
+if (false) {
+}
+
+initial_stake;
